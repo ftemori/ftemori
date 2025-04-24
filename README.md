@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ferdaws</h1>
 <h3 align="center">A passionate backend developer based in Berlin, Germany</h3>
 
+- 🔭 I’m currently working on a 42 school project called inception which is about building Docker images and containers for WordPress with a DataBase (Mariadb) and served on NGINX **haah**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ferdaws temori" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ferdaws temori" height="30" width="40" /></a>
