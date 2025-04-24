@@ -1,9 +1,3 @@
-### Hi there 👋
-
-I am passionate backend developer based in Berlin, Germany. 
-
-- 🔭 I’m currently working on 42 school project called inception which is about building Docker images and containers for WordPress with a DataBase (Mariadb) and served on NGINX.
-
 <h1 align="center">Hi 👋, I'm Ferdaws</h1>
 <h3 align="center">A passionate backend developer based in Berlin, Germany</h3>
 
